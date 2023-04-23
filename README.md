@@ -110,7 +110,7 @@ For deployment on railway you can see the full of [Necessary Variables Here](htt
 - `curl -sL https://deb.nodesource.com/setup_16.x | bash -`
 - `sudo apt-get install -y nodejs`
 - `npm i -g npm`
-- `git clone https://github.com/aryazakaria01/CBMusicBot` # Clone your repo.
+- `git clone https://github.com/lizyangelxdark/tgvcprobot` # Clone your repo.
 - `cd CBMusicBot`
 - `pip3 install -U -r requirements.txt`
 - `cp example.env .env` #Use vim to edit ENVs
@@ -119,5 +119,5 @@ For deployment on railway you can see the full of [Necessary Variables Here](htt
 
 ### Special Credits 💖
 - [BarisFlexxq For Instagram](https://www.instagram.com/barisflexxq): Dev
-- [Laky](t.me/barisflexxq) 
+- [Telegram Profile Me !](t.me/barisflexxq) 
 
