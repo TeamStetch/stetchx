@@ -37,7 +37,7 @@ Unlimited Queue
 Broadcast Bot
 Statistic Collector
 Group Tools (ban/unban/mute/unmute)
-Block / Unblock (restrict user for using your bot)
+. Block / Unblock (restrict user for using your bot)
 Commands 🛠
 
 /play <song name> - play song you requested
