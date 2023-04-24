@@ -98,7 +98,7 @@ The easy way to host this bot, deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryazakaria01/CBMusicBot)
 
 ## Railway Deployment 🚄
-For deployment on railway you can see the full of [Necessary Variables Here](https://github.com/aryazakaria01/CBMusicBot/blob/main/example.env), make sure you fill all of it.
+For deployment on railway you can see the full of [Necessary Variables Here](https://railway.app/?referralCode=daI177), make sure you fill all of it.
 
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/?referralCode=daI177)
 
