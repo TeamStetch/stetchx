@@ -1,6 +1,6 @@
 <h2 align="centre">🇨🇦Barisflexxq⭐️</h2>
 
-### Cyber Music is a telegram bot project that's allow you to play music on telegram voice chat group.
+### Cyber Music is a telegram bot project that,s Voice And Video Player,s.
 
 <p align="center"><a href="</h2>
 
