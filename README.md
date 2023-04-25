@@ -1,4 +1,4 @@
-<h2 align="centre">🎶 Barisflexxq 🎶</h2>
+<h2 align="centre">🇨🇦Barisflexxq⭐️</h2>
 
 ### Cyber Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
@@ -28,10 +28,10 @@
 
 🧪 Get STRING_SESSION from below:
 
-TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Arya01/PyrogramMusicString#main.py)
+TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@dashezup/generate-pyrogram-session-string)
 
 🎖 History
-- [![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/aryazakaria01/CBMusicBot)
+- [![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://t.me/alnightstar)
 
 ## Features 🔮
 
