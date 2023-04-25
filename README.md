@@ -5,7 +5,7 @@
 <p align="center"><a href="</h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/gif-04-25-25">
+  <img src="https://i.imgyukle.com/2023/04/25/Q9eq7x.gif">
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
