@@ -35,21 +35,10 @@ TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString
 
 ## Features 🔮
 
-- Thumbnail Support
-- Playlist Support
-- Showing track names when skipping
 - Youtube, Local playback support
-- Settings panel
-- Control with buttons
-- Userbot auto join
 - Channel Music Play
 - Keyboard selection support for youtube play
 - Lyrics Scrapper
-- Unlimited Queue
-- Broadcast Bot
-- Statistic Collector
-- Group Tools (ban/unban/mute/unmute)
-- Block / Unblock (restrict user for using your bot)
 
 ## Commands 🛠
 
@@ -83,12 +72,6 @@ TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString
 - `/pmpermit on | off` turn on/off the assistant pmpermit
 - `/userbotleaveall` - order the assistant to leave all groups
 - `/gcast` - send a broadcast message from the assistant
-
-### Owner Only 👨🏻‍✈️
-- `/broadcast` - send a broadcast message from the bot
-- `/block` - block people for using your bot
-- `/unblock` - unblock people you blocked for using your bot
-- `/blocklist` - show the list of all people who's blocked for using your bot
 
 ### pm-permit 💬
 - `.yes` - approve user for sending message to assistant
