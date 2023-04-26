@@ -5,7 +5,7 @@
 <p align="center"><a href="</h2>
 
 <p align="center">
-  <img src="https://i.imgyukle.com/2023/04/25/Q9eq7x.gif">
+  <img src="https://resmim.net/cdn/2023/04/26/SDsNOZ.gif">
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
@@ -49,29 +49,6 @@ TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString
 - `/vsong <song name>` - download videos you want quickly
 - `/lyric <song name>` - lyrics scrapper
 - `/vk <song name>` - generate song without download
-
-#### Admins Only 👷‍♂️
-- `/player` - open music player settings panel
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
-- `/musicplayer on` - to disable music player in your group
-- `/musicplayer off` - to enable music player in your group
-- `/userbotjoin` - invite assistant to your chat
-- `/userbotleave` - remove assistant from your chat
-- `/reload` - Refresh admin list
-- `/uptime` - check the bot uptime status
-- `/ping` - check the bot ping status
-- `/auth` - authorized people to access the admin commands
-- `/deauth` - deauthorized people to access the admin commands
-- `/control` - open the music player control panel
-
-### Sudo User 🧙‍♂️
-- `/stats` - see the bot statistic
-- `/pmpermit on | off` turn on/off the assistant pmpermit
-- `/userbotleaveall` - order the assistant to leave all groups
-- `/gcast` - send a broadcast message from the assistant
 
 ### pm-permit 💬
 - `.yes` - approve user for sending message to assistant
