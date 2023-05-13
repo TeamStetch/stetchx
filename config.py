@@ -24,8 +24,8 @@ UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "its_stetch")
 OWNER_NAME = getenv("OWNER_NAME", "STETCH") # isi dengan username kamu tanpa simbol @
 PMPERMIT = getenv("PMPERMIT", None)
 OWNER_ID = int(os.environ.get("OWNER_ID", "1404114574")) # fill with your id as the owner of the bot
-DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://joepsychoo:<password>@cluster0.q0ox4m3.mongodb.net/?retryWrites=true&w=majority") # fill with your mongodb url
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "its_stetch")) # make a private channel and get the channel id
+DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://veez:mega@cluster0.heqnd.mongodb.net/veez?retryWrites=true&w=majority") # fill with your mongodb url
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001849104618")) # make a private channel and get the channel id
 BROADCAST_AS_COPY = bool(os.environ.get("BROADCAST_AS_COPY", False)) # just fill with True or False (optional)
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "600"))
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! .").split())
